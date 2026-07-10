@@ -80,10 +80,11 @@ a{color:inherit;text-decoration:none}.hero{min-height:92vh;background:linear-gra
 
 .topic-image{
   display:block;
-  max-width:520px;
-  width:100%;
-  margin:18px auto 26px;
-  border-radius:16px;
-  box-shadow:0 12px 28px rgba(30,45,36,.14);
-  object-fit:cover;
+    width:100%;
+    max-width:900px;
+    height:350px;
+    margin:18px auto 26px;
+    border-radius:16px;
+    box-shadow:0 12px 28px rgba(30,45,36,.14);
+    object-fit:cover;
 }
