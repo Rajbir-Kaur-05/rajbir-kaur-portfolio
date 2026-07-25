@@ -121,3 +121,20 @@ a{color:inherit;text-decoration:none}.hero{min-height:92vh;background:linear-gra
 .indent-list {
     margin-left: 40px;
 }
+.cause-effect-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+}
+
+.cause-effect-table th,
+.cause-effect-table td {
+    border: 1px solid #777;
+    padding: 12px 15px;
+    text-align: left;
+}
+
+.cause-effect-table th {
+    background-color: #e8efe3;
+    font-weight: bold;
+}
