@@ -138,3 +138,21 @@ a{color:inherit;text-decoration:none}.hero{min-height:92vh;background:linear-gra
     background-color: #e8efe3;
     font-weight: bold;
 }
+.module-page .learning-card{
+    display:grid;
+    grid-template-columns:90px minmax(0, 1fr);
+    gap:28px;
+    align-items:start;
+    height:auto;
+    min-height:0;
+}
+
+.module-page .learning-card > div:last-child{
+    width:100%;
+    min-width:0;
+}
+
+.module-page .learning-card p{
+    width:100%;
+    max-width:none;
+}
