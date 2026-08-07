@@ -174,14 +174,14 @@ a{color:inherit;text-decoration:none}.hero{min-height:92vh;background:linear-gra
     background:#e8eee3;
 }
 #modules .module-grid{
-    grid-template-columns:repeat(8, minmax(0, 1fr)) !important;
+    grid-template-columns:repeat(9, minmax(0, 1fr)) !important;
 }
 
 #modules .inquiry-tile{
     background:#e8eee3;
 }
 .module-dashboard .module-grid{
-    grid-template-columns:repeat(8, minmax(0, 1fr)) !important;
+    grid-template-columns:repeat(9, minmax(0, 1fr)) !important;
 }
 
 .inquiry-tile{
